@@ -1,0 +1,50 @@
+{
+    "name": "crudemon",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@reduxjs/toolkit": "^1.8.2",
+        "body-parser": "^1.20.0",
+        "express": "^4.18.1",
+        "node-fetch": "^2.6.7",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-redux": "^8.0.2",
+        "react-scripts": "5.0.1",
+        "redux": "^4.2.0"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@types/react": "^18.0.13",
+        "@types/react-dom": "^18.0.5",
+        "@types/react-redux": "^7.1.24",
+        "cypress": "^10.1.0",
+        "eslint-plugin-cypress": "^2.12.1"
+    },
+    "engines": {
+        "node": "16.15.0"
+    }
+}
