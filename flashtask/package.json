@@ -1,0 +1,42 @@
+{
+    "name": "flashtask",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@types/node": "16.11.49",
+        "@types/react": "18.0.17",
+        "@types/react-dom": "18.0.6",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "5.0.1",
+        "typescript": "4.7.4"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "body-parser": "1.20.0",
+        "express": "4.18.1"
+    }
+}
