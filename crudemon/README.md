@@ -1,37 +1,27 @@
-# CRUDEMON
+# [Crudemon](https://crudemon.vercel.app)
 
-Crea, Lee, Actualiza y Elimina tus propios Pokémon, ¡Y consigue tu meta de convertirte en un verdadero maestro Pokémon!
-
-WEBPAGE: https://crudemon.herokuapp.com/
-
-GITHUB REPOSITORY: https://github.com/matias-fuentes/Crudemon/
+WEBPAGE: https://crudemon.vercel.app
 
 VIDEO PRESENTATION: https://www.youtube.com/watch?v=JbLpnJQB4Vc
 
+## Description
+
+Step into the captivating world of Pokémon with Crudemon, the ultimate webpage for trainers of all levels. Seamlessly manage your Pokémon collection, from creating new creatures to reading their unique stats, updating their abilities, and even bidding them farewell if needed. With Crudemon, you have the power to nurture and evolve your favorite Pokémons, creating a team that reflects your strategic prowess.
+
 ## Sidenotes
 
--   Ahora con la nueva versión de Crudemon con el nuevo superset de JavaScript que me aprendí; TypeScript, el tipado y
-    la confidencialidad a la hora de pushear es más fuerte que nunca.
--   También, solucioné el error del unit test del READ que se detenía la ejecución por un error que yo mismo
-    accidentalmente throweaba.
-
-## Summary
-
-¡Qué gustos verlos nuevamente, Juan y compañía! Espero que estén de lo mejor, y tan feliz como yo de presentarles
-Crudemon, TU PÁGINA, para convertirte en un verdadero maestro Pokémon.
-
-En respuesta al Coding Challenge que me enviaron la semana pasada, aquí está el proyecto final.
+- Now with the new version of Crudemon with the new JavaScript superset that I've learned; TypeScript, the types and confidentiality when pushing is stronger than ever.
+- Also, I fixed the READ unit test error which stopped the execution for an error that I was accidentally throwing.
 
 ## Features
 
--   NEW! Redux implementation!
--   Responsive design.
--   CRUD completo y funcional.
--   Código refactorizado y uso inteligente y minucioso de la reutilización a través de los componentes de React.
--   Capacidad de administrar tus propios Pokémon.
--   Integración adecuada de la página con la REST API y sus respectivos endpoints provistos.
--   TDD End to End testing.
--   Repleto de buenas prácticas y su factor clave: pasión.
+- NEW! Redux implementation!
+- Responsive design.
+- CRUD completed and functional.
+- Refactored code and smart and an exhaustive use of the reuse capability through the React components.
+- Capacity to manage your own Pokémons.
+- Proper page integration with the REST API and its respective endpoints.
+- TDD End to End testing.
+- Full of good practices and its key factor: passion.
 
-P.D.: Me tomé la molestia de hacerles un vídeo presentando el proyecto. Arriba de este mismo README en la sección de
-links, vas a encontrar un enlace directo por si te apetece verlo :).
+P.D.: I made a video presenting the project! I strongly recommend to you to watch it (keep in mind that it's in Spanish). Above of this same README, in the links section, you'll find a direct link if you want to watch it :).

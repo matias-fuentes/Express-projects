@@ -2,16 +2,16 @@
 
 ## URLs
 
-- Crudemon: http://crudemon.herokuapp.com/
+-   Crudemon: http://crudemon.vercel.app
 
-- DragProject: https://dragproject.herokuapp.com/
+-   DragProject: https://dragproject.vercel.app
 
-- FlashTask: https://flashtask.herokuapp.com/
+-   FlashTask: https://flashtask.vercel.app
 
 ## Repositories
 
-- Crudemon: https://github.com/matias-fuentes/Crudemon
+-   Crudemon: https://github.com/matias-fuentes/Crudemon
 
-- DragProject: https://github.com/matias-fuentes/DragProject
+-   DragProject: https://github.com/matias-fuentes/DragProject
 
-- FlashTask: https://github.com/matias-fuentes/FlashTask
+-   FlashTask: https://github.com/matias-fuentes/FlashTask
