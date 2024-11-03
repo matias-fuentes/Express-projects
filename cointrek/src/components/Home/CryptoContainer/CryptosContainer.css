@@ -1,0 +1,27 @@
+.table__head {
+    background-color: #161616;
+}
+
+.table__head--light {
+    background-color: #eaeaea;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.tCell {
+    color: inherit;
+}
+
+.trow:hover {
+    background-color: #2b2b2b;
+}
+
+.trow__light:hover {
+    background-color: #e0e0e0;
+}
+
+.purchaseBtn__disabled {
+    filter: brightness(80%);
+}

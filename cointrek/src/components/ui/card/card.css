@@ -1,0 +1,7 @@
+.cardBorder__dark {
+    border: 1px solid rgb(64, 64, 64) !important;
+}
+
+.cardBorder__light {
+    border: 1px solid rgb(228, 228, 228) !important;
+}

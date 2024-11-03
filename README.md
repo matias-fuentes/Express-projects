@@ -2,16 +2,12 @@
 
 ## URLs
 
--   Crudemon: http://crudemon.vercel.app
+-   CoinTrek: https://cointrek.d1cecc6965cxs7.amplifyapp.com/
 
--   DragProject: https://dragproject.vercel.app
-
--   FlashTask: https://flashtask.vercel.app
+-   CrypTrends: https://cryptrends.vercel.app/
 
 ## Repositories
 
--   Crudemon: https://github.com/matias-fuentes/Crudemon
+-   CoinTrek: https://github.com/matias-fuentes/CoinTrek
 
--   DragProject: https://github.com/matias-fuentes/DragProject
-
--   FlashTask: https://github.com/matias-fuentes/FlashTask
+-   CrypTrends: https://github.com/matias-fuentes/CrypTrends

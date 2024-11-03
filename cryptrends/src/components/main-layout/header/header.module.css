@@ -1,0 +1,8 @@
+.header {
+  border-bottom: 1px solid hsla(var(--border));
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+}
